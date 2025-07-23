@@ -32,24 +32,18 @@ I'm Apurva, a Master's student in Cybersecurity at Drexel University with a pass
 🔹 **Digitized Attendance System** – QR code-based mobile attendance solution  
 
 ---
+🔍 I thrive on continuous learning and believe that every challenge is a gateway to growth. From analyzing network vulnerabilities to developing full-stack applications, and even crafting compelling designs — I love bringing ideas to life.
 
-🎓 **Education:**
+🌟 Open to Opportunities:
 
-- 🏫 *Drexel University, USA* – MS in Cybersecurity *(Expected Mar 2027)* – GPA: 3.82  
-- 🎓 *PVG’s COET, India* – BE in Computer Science *(Graduated May 2023)*
+🛡️ Cybersecurity Roles (Threat Analysis, VAPT, Network Security)
 
+🎨 Freelance Creative Work (Posters, Cards, Branding Material)
+
+🧠 Research & Collaborative Projects (Cybersecurity, Full-Stack Dev, Data Engineering)
+
+Let’s collaborate on something meaningful!
+📬 appeingale4@gmail.com | LinkedIn
 ---
 
-💡 Always curious, always learning.  
-Open to collaborations, freelance opportunities, and research projects.
 
-📩 **Let's connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apurva%20Ingale-blue?logo=linkedin)](https://www.linkedin.com/in/apurva-ingale)  
-[![GitHub](https://img.shields.io/badge/GitHub-apurvaingale36-black?logo=github)](https://github.com/apurvaingale36)  
-✉️ Email: [appeingale4@gmail.com](mailto:appeingale4@gmail.com)
-
----
-
-> 🔗 [Check Out My Portfolio Website](https://your-netlify-url.netlify.app)  
-> 📄 [Download My Resume](https://link-to-resume-pdf.com)
